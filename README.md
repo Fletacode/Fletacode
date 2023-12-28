@@ -15,6 +15,7 @@
  
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=47A248">
 
+<br/>
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bassrkd)](https://solved.ac/bassrkd/)
 
