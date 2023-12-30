@@ -2,7 +2,7 @@
 
 I'm Kim DongHun
 
-I am a student studying in the computer science at Kookmin University
+I am a student studying in the computer science at <a href='https://cs.kookmin.ac.kr/'>Kookmin University </a> 
 
 <br/>
 
