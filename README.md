@@ -1,6 +1,7 @@
 ### 👋 Hi, There
 
 I'm Kim DongHun
+
 I am a student studying in the computer science at Kookmin University
 
 <br/>
