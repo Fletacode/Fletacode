@@ -1,4 +1,7 @@
-### 👋 안녕하세요, 웹 개발자 김동훈입니다.
+### 👋 Hi, There
+
+I'm Kim DongHun
+I am a student studying in the computer science at Kookmin University
 
 <br/>
 
