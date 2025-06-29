@@ -1,7 +1,5 @@
 ### 👋 Hi, There
 
-I'm Kim DongHun
-
 <br/>
 
 ### ☄️ Tech 
